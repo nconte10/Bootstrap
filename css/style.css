@@ -1,0 +1,22 @@
+body{
+    background-color: #143F6B;
+}
+.container{
+    background-image: linear-gradient(to bottom, #FFD32D, #FFF89A);
+}
+
+.formulario{
+    background-color: #FAC213;
+}
+
+.ubicación{
+    color: yellow;
+}
+
+.fielT{
+
+    text-align: center;
+    background-image: url("../img/banner.jpg");
+    text-decoration: underline;
+    color: #EAEA7F;
+}
